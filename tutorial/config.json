@@ -1,6 +1,6 @@
 {
     "title": "King Tut - The tutorial about how to create tutorials",
-    "repo": "ringcentral-tutorials/king-tut-nodejs-demo",
+    "repo": "ringcentral-tutorials/king-tut",
     "description": "Need to know how to create a tutorial for RingCentral Tutorials? This example tutorial will show you the ropes of this procedure. Click the \"Start\" button below to learn how to become a RingCentral Tutorials King!",
     "heroku": false
 }
